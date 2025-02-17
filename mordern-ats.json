@@ -1,6 +1,6 @@
 {
     "android": {
-        "version": "1.0.1",
+        "version": "1.0.3",
         "versionCode": "3",
         "updates": [
             "Minor bug fixes",
