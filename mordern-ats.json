@@ -1,7 +1,7 @@
 {
     "android": {
-        "version": "1.1.0",
-        "versionCode": "3",
+        "version": "1.1.1",
+        "versionCode": "9",
         "updates": [
             "Minor bug fixes",
             "Customize templates feature",
